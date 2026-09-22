@@ -1,0 +1,19 @@
+{
+  "number": 32,
+  "source_reel": 155,
+  "slug": "no32-japanese-bookmarks",
+  "status": "draft",
+  "publish_at": null,
+  "category": "AI副業",
+  "title": "日本の風景を、<br>自分で彩るしおりに。",
+  "description": "ChatGPTで日本風景の塗り絵しおりと英語の紹介文を作り、印刷データを整えてEtsyに出品するまでの手順。コピーして使えるプロンプト2本付き。",
+  "tags": [
+    "ChatGPT",
+    "塗り絵しおり",
+    "Etsy"
+  ],
+  "url": "https://smitch-ai-works.github.io/no32-japanese-bookmarks/",
+  "image": "assets/preview-ai-v1/no32.jpg",
+  "image_source": "eyecatch.jpg",
+  "accent": "#927036"
+}
